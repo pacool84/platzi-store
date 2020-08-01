@@ -13,6 +13,7 @@ script:
   - yarn build
 
 notifications:
+  slack: skydevpop:Fux4VCh3dwdDAwOeUAzKRaYI
   email:
     recipies:
       - flopez_1384@hotmail.com
