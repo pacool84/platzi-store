@@ -15,7 +15,7 @@ script:
 notifications:
   email:
     recipies:
-      - flopez_1484@hotmail.com
+      - flopez_1384@hotmail.com
       - francisco.lopez@walmart.com
     on_success: always
     on_failure: always
